@@ -1,34 +1,48 @@
 {
-    "users" : [
+    "users": [
         {
-            "id" : 1,
-            "name" : "GITLER",
-            "sirname" : "CROCUS",
-            "photo_url" : "https://images-ext-1.discordapp.net/external/1IhfTkEvGCounxpBIcGI2RLTUy5Z2Np5t8JPtEqr39Q/%3Fq%3Dtbn%3AANd9GcRRomLQDv6qoq2eqzzao4UUPlMoOxSEzU38bg%26s/https/encrypted-tbn0.gstatic.com/images?format=webp",
-            "balance" : 1488
+            "id": 1,
+            "name": "user1",
+            "sirname": "",
+            "photo_url": "https://images-ext-1.discordapp.net/external/1IhfTkEvGCounxpBIcGI2RLTUy5Z2Np5t8JPtEqr39Q/%3Fq%3Dtbn%3AANd9GcRRomLQDv6qoq2eqzzao4UUPlMoOxSEzU38bg%26s/https/encrypted-tbn0.gstatic.com/images?format=webp",
+            "balance": 1500
         },
         {
-            "id" : 2,
-            "name" : "HIROHITO",
-            "sirname" : "CROCUS",
-            "photo_url" : "https://images-ext-1.discordapp.net/external/1IhfTkEvGCounxpBIcGI2RLTUy5Z2Np5t8JPtEqr39Q/%3Fq%3Dtbn%3AANd9GcRRomLQDv6qoq2eqzzao4UUPlMoOxSEzU38bg%26s/https/encrypted-tbn0.gstatic.com/images?format=webp",
-            "balance" : 1161
+            "id": 2,
+            "name": "user2",
+            "sirname": "",
+            "photo_url": "https://images-ext-1.discordapp.net/external/1IhfTkEvGCounxpBIcGI2RLTUy5Z2Np5t8JPtEqr39Q/%3Fq%3Dtbn%3AANd9GcRRomLQDv6qoq2eqzzao4UUPlMoOxSEzU38bg%26s/https/encrypted-tbn0.gstatic.com/images?format=webp",
+            "balance": 1500
         },
         {
-            "id" : 3,
-            "name" : "GITLER NE VINOVAT",
-            "sirname" : "CROCUS",
-            "photo_url" : "https://images-ext-1.discordapp.net/external/1IhfTkEvGCounxpBIcGI2RLTUy5Z2Np5t8JPtEqr39Q/%3Fq%3Dtbn%3AANd9GcRRomLQDv6qoq2eqzzao4UUPlMoOxSEzU38bg%26s/https/encrypted-tbn0.gstatic.com/images?format=webp",
-            "balance" : 1945
+            "id": 3,
+            "name": "user3",
+            "sirname": "",
+            "photo_url": "https://images-ext-1.discordapp.net/external/1IhfTkEvGCounxpBIcGI2RLTUy5Z2Np5t8JPtEqr39Q/%3Fq%3Dtbn%3AANd9GcRRomLQDv6qoq2eqzzao4UUPlMoOxSEzU38bg%26s/https/encrypted-tbn0.gstatic.com/images?format=webp",
+            "balance": 1500
         }
     ],
-    "products" : [
+    "products": [
         {
-            "id" : 1,
-            "name" : "",
-            "sirname" : "furs",
-            "photo_url" : "https://images-ext-1.discordapp.net/external/1IhfTkEvGCounxpBIcGI2RLTUy5Z2Np5t8JPtEqr39Q/%3Fq%3Dtbn%3AANd9GcRRomLQDv6qoq2eqzzao4UUPlMoOxSEzU38bg%26s/https/encrypted-tbn0.gstatic.com/images?format=webp",
-            "balance" : 1945
+            "id": 1,
+            "name": "product1",
+            "sirname": "",
+            "photo_url": "https://images-ext-1.discordapp.net/external/1IhfTkEvGCounxpBIcGI2RLTUy5Z2Np5t8JPtEqr39Q/%3Fq%3Dtbn%3AANd9GcRRomLQDv6qoq2eqzzao4UUPlMoOxSEzU38bg%26s/https/encrypted-tbn0.gstatic.com/images?format=webp",
+            "balance": 1945
+        },
+        {
+            "id": 2,
+            "name": "product2",
+            "sirname": "",
+            "photo_url": "https://images-ext-1.discordapp.net/external/1IhfTkEvGCounxpBIcGI2RLTUy5Z2Np5t8JPtEqr39Q/%3Fq%3Dtbn%3AANd9GcRRomLQDv6qoq2eqzzao4UUPlMoOxSEzU38bg%26s/https/encrypted-tbn0.gstatic.com/images?format=webp",
+            "balance": 1100
+        },
+        {
+            "id": 3,
+            "name": "product3",
+            "sirname": "",
+            "photo_url": "https://images-ext-1.discordapp.net/external/1IhfTkEvGCounxpBIcGI2RLTUy5Z2Np5t8JPtEqr39Q/%3Fq%3Dtbn%3AANd9GcRRomLQDv6qoq2eqzzao4UUPlMoOxSEzU38bg%26s/https/encrypted-tbn0.gstatic.com/images?format=webp",
+            "balance": 1500
         }
     ]
 }
